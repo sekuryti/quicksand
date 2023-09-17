@@ -28,6 +28,7 @@ Quicksand is a command-line utility for quickly identifying and managing corrupt
 2. Build the Quicksand executable:
 
    ```bash
+   go get
    go build quicksand.go
    ```
 
