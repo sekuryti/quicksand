@@ -66,4 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The [github.com/fogleman/gg](https://pkg.go.dev/github.com/fogleman/gg) library is used for image checking.
 - [ffmpeg](https://ffmpeg.org/) is used for video checking.
-```
